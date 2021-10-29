@@ -1,7 +1,8 @@
 #! python3
 # MadLibs.py lets the user add their own text anywhere the word ADJECTIVE, NOUN, ADVERB, or VERB appears
 # in the text file.
-# Usage:
+# Usage: the user should provide words that will replace those in the text.
+# A text file will be generated and the text with the given words will be printed.
 
 adjective = input("Enter an adjective: ")
 noun1 = input("Enter a noun: ")
